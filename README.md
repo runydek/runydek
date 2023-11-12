@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm runydek<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning Next JS<br>- ⚡ In my free time I Coding</p>
+<p align="left">I'm runydek<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning React JS<br>- ⚡ In my free time I Coding</p>
 
 ###
 
