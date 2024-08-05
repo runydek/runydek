@@ -35,10 +35,6 @@
 
 ###
 
-<p align="left">I'm runydek<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning React JS<br>- ⚡ In my free time I Coding</p>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
